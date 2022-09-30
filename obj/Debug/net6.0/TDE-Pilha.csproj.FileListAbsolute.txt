@@ -1,0 +1,15 @@
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\bin\Debug\net6.0\TDE-Pilha.exe
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\bin\Debug\net6.0\TDE-Pilha.deps.json
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\bin\Debug\net6.0\TDE-Pilha.runtimeconfig.json
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\bin\Debug\net6.0\TDE-Pilha.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\bin\Debug\net6.0\ref\TDE-Pilha.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\bin\Debug\net6.0\TDE-Pilha.pdb
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.csproj.AssemblyReference.cache
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.AssemblyInfoInputs.cache
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.AssemblyInfo.cs
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.csproj.CoreCompileInputs.cache
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\ref\TDE-Pilha.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.pdb
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Pilha\obj\Debug\net6.0\TDE-Pilha.genruntimeconfig.cache
